@@ -1,0 +1,14 @@
+Feature,Importance
+SRS_diff,19.703659057617188
+net_rating_diff,7.126084804534912
+assists_per_game_diff,5.688854217529297
+win_pct_diff,5.4051594734191895
+defensive_rebounds_per_game_diff,5.106836318969727
+offensive_rating_diff,4.771980285644531
+offensive_rebounds_per_game_diff,4.719757080078125
+blocks_per_game_diff,4.715385437011719
+free_throw_percentage_diff,4.663734436035156
+three_point_percentage_diff,4.6317362785339355
+field_goal_percentage_diff,4.51777458190918
+defensive_rating_diff,4.168233394622803
+rebounds_per_game_diff,4.036181449890137
