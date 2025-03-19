@@ -1,0 +1,12 @@
+Feature,Importance
+SRS_diff,7156.0322265625
+net_rating_diff,1287.9678955078125
+field_goal_percentage_diff,576.7337036132812
+assists_per_game_diff,496.8255920410156
+three_point_percentage_diff,286.5835266113281
+rebounds_per_game_diff,265.1894226074219
+offensive_rebounds_per_game_diff,264.237060546875
+free_throw_percentage_diff,194.70724487304688
+seed_diff,15.767216682434082
+defensive_rebounds_per_game_diff,15.20053482055664
+blocks_per_game_diff,15.059279441833496
